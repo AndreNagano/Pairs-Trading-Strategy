@@ -7,4 +7,4 @@ This repository contains a Jupyter notebook with a implementation of the Pairs T
 - **Data Visualization**: time series plots to verify the mean reverting tendencies of the spread gap.
 - **Strategy Simulation**: simulate a Pairs Trading strategy using real-world data.
 
-This project was also posted on my [Medium](https://medium.com/@andrejin.nagano), please feel free to check out my other projects there.
+This project was also published on my [Medium profile](https://medium.com/@andrejin.nagano), please feel free to check out my other projects there.
